@@ -1,6 +1,8 @@
 # Sea Level Rise Estimation with Empirical Mode Decomposition
 
-This repository contains the code and analysis for the paper "Decomposition-based Analysis of Localized Sea Level Rise around the Korean Peninsula using CEEMDAN" (2025).
+This repository contains the code and analysis for the paper "Comparative Analysis of Signal Decomposition
+Methods for Regional Sea Level Trend Estimation: A
+Case Study of the Korean Peninsula" (2025).
 
 ## 📊 Overview
 
